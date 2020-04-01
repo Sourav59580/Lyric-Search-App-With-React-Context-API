@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function Navbar() {
     return (
-        <div>
-            
-        </div>
+        <nav className="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
+           <a className='navbar-brand'>LyricsMonia</a>
+        </nav>
     )
 }
